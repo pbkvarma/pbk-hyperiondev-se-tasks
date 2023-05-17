@@ -1,0 +1,10 @@
+'''
+Task 20-1 Installing git and checking current version through terminal CLI
+Task 20-2 Creating GitHub account and submitting URL of my GitHub profile
+Code Author: Bharat Penumathsa
+Id: BP23010007956
+
+'''
+
+# URL of my GitHub profile with username: pbkvarma and a new repository hyperiondev-SE
+https://github.com/pbkvarma/pbk-hyperiondev-SE.git
