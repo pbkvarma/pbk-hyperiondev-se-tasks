@@ -1,0 +1,2 @@
+admin;password
+rack_34;rack34
