@@ -1,0 +1,34 @@
+User Overview
+
+User: admin
+Total number of users registered: 4
+Total number of tasks generated and tracked: 4
+Total number of tasks assigned to the user: 2
+Percentage of the total number of tasks assigned to the user: 50.00%
+Percentage of the total number of tasks assigned to the user that have been completed: 0.00%
+Percentage of the total number of tasks assigned to the user that must still be completed: 100.00%
+Percentage of the total number of tasks assigned to the user that have not yet been completed and are overdue: 50.00%
+User: bharat
+Total number of users registered: 4
+Total number of tasks generated and tracked: 4
+Total number of tasks assigned to the user: 1
+Percentage of the total number of tasks assigned to the user: 25.00%
+Percentage of the total number of tasks assigned to the user that have been completed: 0.00%
+Percentage of the total number of tasks assigned to the user that must still be completed: 100.00%
+Percentage of the total number of tasks assigned to the user that have not yet been completed and are overdue: 0.00%
+User: jockey
+Total number of users registered: 4
+Total number of tasks generated and tracked: 4
+Total number of tasks assigned to the user: 0
+Percentage of the total number of tasks assigned to the user: 25.00%
+Percentage of the total number of tasks assigned to the user that have been completed: 0.00%
+Percentage of the total number of tasks assigned to the user that must still be completed: 100.00%
+Percentage of the total number of tasks assigned to the user that have not yet been completed and are overdue: 0.00%
+User: smith
+Total number of users registered: 4
+Total number of tasks generated and tracked: 4
+Total number of tasks assigned to the user: 1
+Percentage of the total number of tasks assigned to the user: 25.00%
+Percentage of the total number of tasks assigned to the user that have been completed: 0.00%
+Percentage of the total number of tasks assigned to the user that must still be completed: 100.00%
+Percentage of the total number of tasks assigned to the user that have not yet been completed and are overdue: 0.00%

@@ -1,0 +1,4 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+bharat;Assign initial tasks;Use taskmanager.py to assign each team member with appropriate tasks;2023-06-30;2023-05-30;No
+admin;Create a new LAN network;Use AWS services ;2023-06-03;2023-05-30;No
+smith;Create cloud account;Use AWS to create a cloud account;2023-06-05;2023-06-01;No
